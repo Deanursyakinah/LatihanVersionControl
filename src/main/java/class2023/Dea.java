@@ -2,6 +2,6 @@ package class2023;
 
 public class Dea {
     public static void main(String[] args) {
-        System.out.println("ini dea");
+        System.out.println("tes ini dea");
     }
 }
