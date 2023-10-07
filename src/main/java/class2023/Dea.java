@@ -1,7 +1,0 @@
-package class2023;
-
-public class Dea {
-    public static void main(String[] args) {
-        System.out.println("tes ini dea");
-    }
-}
